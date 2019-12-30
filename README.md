@@ -6,7 +6,5 @@ description: 关注微信公众号 及时查看最新推送文章
 
 
 
-![](.gitbook/assets/wechatimg149.jpeg)
-
 
 

@@ -4,8 +4,7 @@
 
 ## 目录 <a id="category"></a>
 
-* [1](category/1.md)
-* [3](category/3/README.md)
-  * [4](category/3/4/README.md)
-    * [2](category/3/4/2.md)
+* [实时动态更新规则](category/update_dynamic_rules.md)
+* [基础概念篇](category/flink-basic/README.md)
+  * [更新中...](category/flink-basic/updating....md)
 
